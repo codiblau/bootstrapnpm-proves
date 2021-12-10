@@ -1,2 +1,2 @@
 [build]
-    command = "gulp compila"
+    command = "gulp compila && npm install"
