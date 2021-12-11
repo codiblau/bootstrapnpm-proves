@@ -1,4 +1,4 @@
-import { Carousel, Modal } from 'bootstrap';
+import 'bootstrap';
 
 
 var myCarousel = document.querySelector('#carouselIESManacor')
