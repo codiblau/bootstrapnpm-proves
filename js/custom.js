@@ -1,4 +1,4 @@
-import { } from 'bootstrap'
+import { } from '../node_modules/bootstrap'
 
 var myCarousel = document.querySelector('#carouselIESManacor')
 var carousel = new bootstrap.Carousel(myCarousel, {
